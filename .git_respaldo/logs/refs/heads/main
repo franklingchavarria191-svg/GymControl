@@ -1,0 +1,33 @@
+0000000000000000000000000000000000000000 1b9b9e6c3f08241df7d45142a84216855b3800fe Hydxo <pinedafran84@gmail.com> 1790911498 -0600	clone: from https://github.com/hydxo/GymControl---Heydi---Ariel---Schwartz---Franklin.git
+1b9b9e6c3f08241df7d45142a84216855b3800fe c41dc63a6f6e6da1582ca4e7f221f85977be164e Hydxo <pinedafran84@gmail.com> 1790918893 -0600	commit: Integración del proyecto GymControl y conexión MariaDB
+c41dc63a6f6e6da1582ca4e7f221f85977be164e 6ce0ee62476902bab3edf370ae859479e9a7641b Hydxo <pinedafran84@gmail.com> 1790922242 -0600	commit: Actualizar nombre del proyecto
+6ce0ee62476902bab3edf370ae859479e9a7641b 2643adf84942b1b85505a7bc8c38ccd88945cbad Hydxo <pinedafran84@gmail.com> 1790922332 -0600	pull --progress --no-edit --no-stat --recurse-submodules=no origin: Merge made by the 'ort' strategy.
+2643adf84942b1b85505a7bc8c38ccd88945cbad d8e51968555cdd10e33038393de101d64c9f5ff7 Hydxo <pinedafran84@gmail.com> 1791089373 -0600	commit: Guardo mis cambios antes de actualizar
+d8e51968555cdd10e33038393de101d64c9f5ff7 377a0e629c2c4033c851e54e0fe908d010be9590 Hydxo <pinedafran84@gmail.com> 1791089651 -0600	commit: Guardo cambios del proyecto
+377a0e629c2c4033c851e54e0fe908d010be9590 e435669630e80d5c03fecad374da0ed99eacf02d Hydxo <pinedafran84@gmail.com> 1791090086 -0600	commit (merge): Integro cambios de formularios
+e435669630e80d5c03fecad374da0ed99eacf02d 30757a8f4c5d40df00e9f6f0219b4d35406053ec Hydxo <pinedafran84@gmail.com> 1791097339 -0600	commit: v2
+30757a8f4c5d40df00e9f6f0219b4d35406053ec 3deacfdf946a727649512d397302ad778645d02f Hydxo <pinedafran84@gmail.com> 1791098760 -0600	commit: v3
+3deacfdf946a727649512d397302ad778645d02f dece9fddb66621342b17f52329ffb6dbe6f1f722 Hydxo <pinedafran84@gmail.com> 1791143232 -0600	commit (amend): v4
+dece9fddb66621342b17f52329ffb6dbe6f1f722 7d2db6339df49305d7f1f8b8d8b76d950f59822b Hydxo <pinedafran84@gmail.com> 1791143390 -0600	commit (amend): v3
+7d2db6339df49305d7f1f8b8d8b76d950f59822b f96082de1107220d24076915a37604b7c1bc2bf5 Hydxo <pinedafran84@gmail.com> 1791145967 -0600	commit (amend): v4
+f96082de1107220d24076915a37604b7c1bc2bf5 4d8ae4c586d440d4896659f1bfe682cc0ea84995 Hydxo <pinedafran84@gmail.com> 1791146005 -0600	commit (amend): v3
+4d8ae4c586d440d4896659f1bfe682cc0ea84995 93d2cfec4af1c02da5c583bdc38c2a670ad67e81 Hydxo <pinedafran84@gmail.com> 1791146438 -0600	commit (amend): v3
+93d2cfec4af1c02da5c583bdc38c2a670ad67e81 e334e35f697de79074acdc43807394f8d1d6498a Hydxo <pinedafran84@gmail.com> 1791159158 -0600	commit (amend): v3
+e334e35f697de79074acdc43807394f8d1d6498a 77729ba8d4a8905c653ab64a919d7aa7f3a2d515 Hydxo <pinedafran84@gmail.com> 1791159658 -0600	commit: Guardo cambios antes de actualizar
+77729ba8d4a8905c653ab64a919d7aa7f3a2d515 f0cb8200229bb6fc5eba19ef17399f3241968e08 Hydxo <pinedafran84@gmail.com> 1791160671 -0600	reset: moving to origin/main
+f0cb8200229bb6fc5eba19ef17399f3241968e08 30c328cf2f21407e613ff0aa38ec1c95c4b01a7e Hydxo <pinedafran84@gmail.com> 1791164237 -0600	pull --progress --no-edit --no-stat --recurse-submodules=no origin: Fast-forward
+30c328cf2f21407e613ff0aa38ec1c95c4b01a7e 9b456631a84656d9d417d30ae17ba73fc1934465 Hydxo <pinedafran84@gmail.com> 1791177892 -0600	commit (amend): V5
+9b456631a84656d9d417d30ae17ba73fc1934465 ea943aa3edde88f4650b23894d9fe01d5d704810 Hydxo <pinedafran84@gmail.com> 1791177934 -0600	commit (amend): V6
+ea943aa3edde88f4650b23894d9fe01d5d704810 26cd378c671c5b6dd7910e1bc2b9278b8aab9fea Hydxo <pinedafran84@gmail.com> 1791178047 -0600	commit (amend): V5
+26cd378c671c5b6dd7910e1bc2b9278b8aab9fea 276ba8edbd6c462aeec2a068ecd5c2f0c5b1081c Hydxo <pinedafran84@gmail.com> 1791180730 -0600	pull --progress --no-edit --no-stat --recurse-submodules=no origin: Merge made by the 'ort' strategy.
+276ba8edbd6c462aeec2a068ecd5c2f0c5b1081c 84710ccf025f9197a685481c3a52f4cea876933a Hydxo <pinedafran84@gmail.com> 1791183753 -0600	commit (amend): Merge branch 'main' of https://github.com/hydxo/GymControl---Heydi---Ariel
+84710ccf025f9197a685481c3a52f4cea876933a c238574f9a6e344b8cfd93c4f3707e1916aa7f53 Hydxo <pinedafran84@gmail.com> 1791257883 -0600	pull --progress --no-edit --no-stat --recurse-submodules=no origin: Merge made by the 'ort' strategy.
+c238574f9a6e344b8cfd93c4f3707e1916aa7f53 47c4b53fac56b90b0027d88b65db2a9d6d9e10cd Hydxo <pinedafran84@gmail.com> 1791257980 -0600	pull --progress --no-edit --no-stat --recurse-submodules=no origin: Merge made by the 'ort' strategy.
+47c4b53fac56b90b0027d88b65db2a9d6d9e10cd cea6e094727571a67a36df9d2f4a110615bf5fe8 Hydxo <pinedafran84@gmail.com> 1791258885 -0600	pull --progress --no-edit --no-stat --recurse-submodules=no origin: Fast-forward
+cea6e094727571a67a36df9d2f4a110615bf5fe8 06f70286a2650c464116c34ac5a0090a854eb650 Hydxo <pinedafran84@gmail.com> 1792723121 -0600	commit: feat: agregar consultas SQL y conexión de los 9 reportes de GymControl
+06f70286a2650c464116c34ac5a0090a854eb650 93fd70986039abe0e0186bbc3195f9a7c2331427 Hydxo <pinedafran84@gmail.com> 1792723134 -0600	pull --progress --no-edit --no-stat --recurse-submodules=no origin: Merge made by the 'ort' strategy.
+93fd70986039abe0e0186bbc3195f9a7c2331427 c57a19abb90486ae7b85feeaa975da8b45ad533c Hydxo <pinedafran84@gmail.com> 1792723750 -0600	commit: actualizar integrantes del proyecto GymControl
+c57a19abb90486ae7b85feeaa975da8b45ad533c 017ef0be56bc48d2a740e259c952382fc21f167e Hydxo <pinedafran84@gmail.com> 1792729020 -0600	commit: Implementación de vistas SQL y consultas de reportes GymControl
+017ef0be56bc48d2a740e259c952382fc21f167e 6a5e51721d48091a2f390c74bc17ba768d81cdf9 Hydxo <pinedafran84@gmail.com> 1792990067 -0600	commit: Configuración de reportes, permisos SQL y formulario de inicio
+6a5e51721d48091a2f390c74bc17ba768d81cdf9 fb50bb80ecd6869453bfa5b6ceb8d7b9e9b4d057 Hydxo <pinedafran84@gmail.com> 1793498881 -0600	pull --progress --no-edit --no-stat --recurse-submodules=no origin: Fast-forward
+fb50bb80ecd6869453bfa5b6ceb8d7b9e9b4d057 5147e5fd61001c4f0bef62478cdb30894f513d7a Hydxo <pinedafran84@gmail.com> 1793509794 -0600	commit: Implementación y corrección de reportes R01-R09 de GymControl

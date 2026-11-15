@@ -1,0 +1,9 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.wsuo
+**/FileContentIndex/
+**/SemanticSymbols.db
+conexion.local.json
